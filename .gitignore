@@ -1,0 +1,8 @@
+# IDEs (si abres todo el monorepo como una sola carpeta en tu editor)
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

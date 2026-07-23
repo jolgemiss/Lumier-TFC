@@ -1,0 +1,4 @@
+DB_URL=jdbc:mysql://localhost:3306/LumierDB?serverTimezone=UTC
+DB_USERNAME=root
+DB_PASSWORD=tu_password_aqui
+TMDB_API_KEY=tu_api_key_de_tmdb
